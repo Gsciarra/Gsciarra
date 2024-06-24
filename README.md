@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate web engineer with a focus on buil
 
 ## Featured Projects
 
-### [Turborepo Starter](https://github.com/gsciarra/turborepo-starter)
+### [Turborepo Starter](https://github.com/Gsciarra/nextjs-fullstack)
 A comprehensive starter template for creating a monorepo with Turborepo. It includes:
 - Shared ESLint, TypeScript, and TailwindCSS configurations
 - Basic and complex components using Tailwind and shadcn/ui (WIP)
