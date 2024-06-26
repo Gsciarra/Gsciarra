@@ -15,12 +15,4 @@ Welcome to my GitHub profile! I'm a passionate web engineer with a focus on buil
 - **Frameworks & Libraries:** Next.js, React, TailwindCSS, shadcn/ui
 - **Tools & Platforms:** Storybook, Turborepo, ESLint, Prettier, GitHub
 
-## Featured Projects
-
-### [Turborepo Starter](https://github.com/Gsciarra/nextjs-fullstack)
-A comprehensive starter template for creating a monorepo with Turborepo. It includes:
-- Shared ESLint, TypeScript, and TailwindCSS configurations
-- Basic and complex components using Tailwind and shadcn/ui (WIP)
-- Storybook for component documentation and testing (WIP)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsciarra&layout=compact&theme=radical)
