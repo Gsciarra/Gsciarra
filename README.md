@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Hi there, I'm Giampiero 👋
 
 Welcome to my GitHub profile! I'm a passionate web engineer with a focus on building efficient, scalable, and accessible web applications. Currently, I’m working on several innovative projects for different startups, leveraging modern web technologies to drive growth and innovation.
