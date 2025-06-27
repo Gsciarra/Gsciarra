@@ -1,14 +1,27 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gsciarra)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gsciarra&theme=gruvbox&rank=SSS,AAA,AA,A&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Hi there, I'm Giampiero 👋
+# 👋 Hi, I'm Giampiero
 
-Welcome to my GitHub profile! I'm a passionate web engineer with a focus on building efficient, scalable, and accessible web applications. Currently, I’m working on several innovative projects with different startups, leveraging modern web technologies to drive growth and innovation.
+👨‍💻 Operative CTO & Senior Web Engineer from Italy  
+🇮🇹 Native Italian speaker, fluent in English
 
-## About Me
+---
 
-- 🔭 **Current Focus:** Developing cutting-edge web applications with Next.js, React, and TailwindCSS.
-- 🌱 **Learning:** Continuously exploring new technologies and best practices to stay ahead in the tech industry.
-- 💬 **Let's Talk:** Web development, cloud architecture, and startup growth.
-- 📫 **Contact Me:** [g.sciarra@outlook.com](mailto:g.sciarra@outlook.com)
+## 🧠 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsciarra&layout=compact&theme=radical)
+- 🔭 **Currently:** Operative CTO of two Italian startups, one of which is building a globally focused product
+- 🧹 **Stack Expertise:** React • Next.js • TypeScript • TailwindCSS • GraphQL • PostgreSQL • Clerk • Vercel 
+- 🛠 **Roles I cover:** Full-stack dev, frontend specialist, tech lead, and infrastructure strategist
+- 🌟 **Looking for:** Freelance or consulting projects where I can bring real impact
+- 🌍 **Based in:** 🇮🇹 Italy (Rome timezone), working remotely with async-friendly teams
+
+---
+
+## 📬 Contact
+
+- Email: [g.sciarra@outlook.com](mailto:g.sciarra@outlook.com)  
+- LinkedIn: [linkedin.com/in/giampierosciarra](https://www.linkedin.com/in/giampierosciarra)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsciarra&layout=compact&theme=radical)
