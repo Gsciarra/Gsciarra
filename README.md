@@ -23,14 +23,8 @@ I help startups build and scale web products through hands-on execution, clear c
 
 ### 📅 Book a call
 
-- 🤝 **Networking / Intro Chat**  
-  Short informal conversation to connect, exchange ideas, or expand our professional network.  
-  Perfect if you're curious about what I'm building or want to share what you're working on.  
-  👉 [Book a networking chat](https://calendar.app.google/A84qfcaqkjtEnEa97)
-
-- 🧭 **Fractional CTO / Technical Strategy Call**  
-  Focused conversation for founders or teams exploring technical leadership, product development, or engineering strategy.  
-  👉 [Book a strategy call](https://calendar.app.google/f2hifrrzxtY2rfs86)
+- 🤝 Networking / Intro Chat → [Book here](https://calendar.app.google/A84qfcaqkjtEnEa97)
+- 🧭 Fractional CTO / Strategy Call → [Book here](https://calendar.app.google/f2hifrrzxtY2rfs86)
 
 ---
 
