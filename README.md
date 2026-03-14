@@ -1,27 +1,26 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gsciarra&theme=gruvbox&rank=SSS,AAA,AA,A&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+# Hi, I'm Giampiero 👋
 
-# 👋 Hi, I'm Giampiero
+I'm a hands-on CTO and senior web engineer based in Italy.  
+I help startups build and scale web products through hands-on execution, clear communication, and pragmatic technical decisions.
 
-👨‍💻 Operative CTO & Senior Web Engineer from Italy  
-🇮🇹 Native Italian speaker, fluent in English
+- Currently working as CTO for two Italian startups, one of which is building for an international market
+- Core focus: product engineering, frontend architecture, technical leadership, and delivery
+- Main stack: React, Next.js, TypeScript, Tailwind CSS, GraphQL, PostgreSQL, Clerk, and Vercel
+- Available for consulting and selected freelance engagements
+- Native Italian speaker, fluent in English, comfortable with remote and async-first collaboration
 
----
+## What I can help with
 
-## 🧠 About Me
+- End-to-end product development
+- Frontend architecture and performance
+- Technical leadership for early-stage teams
+- Pragmatic infrastructure and deployment decisions
 
-- 🔭 **Currently:** Operative CTO of two Italian startups, one of which is building a globally focused product
-- 🧹 **Stack Expertise:** React • Next.js • TypeScript • TailwindCSS • GraphQL • PostgreSQL • Clerk • Vercel 
-- 🛠 **Roles I cover:** Full-stack dev, frontend specialist, tech lead, and infrastructure strategist
-- 🌟 **Looking for:** Freelance or consulting projects where I can bring real impact
-- 🌍 **Based in:** 🇮🇹 Italy (Rome timezone), working remotely with async-friendly teams
+## Contact
 
----
-
-## 📬 Contact
-
-- Email: [g.sciarra@outlook.com](mailto:g.sciarra@outlook.com)  
+- Email: [g.sciarra@outlook.com](mailto:g.sciarra@outlook.com)
 - LinkedIn: [linkedin.com/in/giampierosciarra](https://www.linkedin.com/in/giampierosciarra)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsciarra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsciarra&layout=compact&theme=gruvbox)
